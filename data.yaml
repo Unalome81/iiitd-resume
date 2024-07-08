@@ -1,175 +1,144 @@
 # BIO
 bio:
-  name: Ananya Lohani
-  roll_number: 2019018
-  email: ananya19018@iiitd.ac.in
+  name: Vivaswan Nawani
+  roll_number: 2021217
+  email: vivaswan21217@iiitd.ac.in
   github:
-    username: ananyalohani
-    link: https://ananya.li/gh
+    username: Unalome81
+    link: https://github.com/Unalome81
   linkedin:
-    username: ananyalohani
-    link: https://ananya.li/linkedin
-  dob: 11 June 2001
+    username: vivaswan-nawani-a27998188
+    link: https://www.linkedin.com/in/vivaswan-nawani-a27998188/
+  dob: 05 Oct 2003
   website:
-    name: lohani.dev
-    link: https://lohani.dev
-  last_updated: 16 July 2021
+    name: 
+    link: 
+  last_updated: 04 July 2024
 
 # EDUCATION
 education:
   - institution: Indraprastha Institute of Information Technology, Delhi
     degree: B.Tech. CSE
-    duration: 2019 - 2023 (Present)
-    grade: 'CGPA: 9.35*'
-    note: (Till 4th Semester)
-  - institution: CRPF Public School, Rohini
+    duration: 2021 - 2025 (Present)
+    grade: 'CGPA: 8.07*'
+    note: (Till 6th Semester)
+  - institution: Delhi Public School, RK Puram
     degree: CBSE Standard 12, PCM + CS
-    duration: 2017 - 2019
-    grade: 'Percentage: 96%'
+    duration: 2018-2020
+    grade: 'Percentage: 89.7%'
+  - institution: Scottish High International School, Gurgaon
+    degree: ICSE Standard 10
+    duration: 2016-2018
+    grade: 'Percentage: 90%'
 
 # SKILLS
 skills:
   - title: Expertise Area
-    value: Data Structures and Algorithms, Full Stack Development, Object Oriented Programming
+    value: Data Structures and Algorithms, Object Oriented Programming, Machine Learning, Competetive Programming
   - title: Programming Languages
-    value: 'Java, JavaScript - 15k lines<br/>C/C++ - 10k lines<br/>Python, TypeScript - 5k lines'
+    value: 'C/C++, Java, JavaScript, Python'
   - title: Tools and Technologies
-    value: Git, Next.js, ReactJS, NodeJS, GatsbyJS, GraphQL, HTML, CSS, TailwindCSS, Svelte, MongoDB, Mongoose, Firebase, MySQL
+    value: Git, HTML, CSS, MongoDB, MySQL
   - title: Technical Electives
-    value: Data Structures and Algorithms, Analysis and Design of Algorithms, Advanced Programming in Java, Computer Organization, Operating Systems, Discrete Maths, Database Management Systems
+    value: Data Structures and Algorithms (C), Analysis and Design of Algorithms, Advanced Programming (Java), Computer Organization, Operating Systems, Computer Architecture, Machine Learning, Computer Vision
 
 # WORK EXPERIENCE
 work_experience:
-  - title: Microsoft Engage
-    subtitle: 'Mentor: Mr. Shanav Asija, Senior SWE at Microsoft'
-    duration: Jun’ 21 - Present
-    links:
-      - name: Website
-        link: https://microsoft.acehacker.com/engage2021/
+
+  - title: Web Dev Intern at Digital India Corporation, Ministry of Electronics and Information Technology
+    subtitle: 'Supervisor: Mr. Rajneesh Sharma'
+    duration: Jun 10 - Present
+    tech_stack: XAMPP, Laravel, PhP, MongoDB
     bullets:
-      - Awarded the opportunity to attend exclusive webinars and AMA sessions by Microsoft.
-      - Designed, constructed and deployed a fully-featured video calling platform.
-  - title: Web Developer, O<span>f</span><span>f</span>icial Website of CSE Department IIIT Delhi
-    subtitle: 'Supervisor: Dr. Koteswar Rao Jerripothula'
-    duration: Feb’ 21 - Present
-    links:
-      - name: Website (Ongoing)
-        link: https://ananya.li/iiitd-cse
-    tech_stack: GatsbyJS, GraphQL, NetlifyCMS, CSS
+      - Contributing to the Academic Bank of Credit project, enhancing website functionalities and implementing CRUD operations using Laravel.
+      - Gaining experience in backend and frontend development, learning PHP, and working with XAMPP and MongoDB.
+  - title: Undergraduate Researcher at Theoretical Computer Science Lab, IITD
+    subtitle: 'Supervisor: Dr: Diptapriyo Majumdar'
+    duration: Jan’ 24 - Present
     bullets:
-      - Designed and developed the o<span>f</span><span>f</span>icial website of the CSE department using GatsbyJS.
-      - Deployed a headless CMS using NetlifyCMS and improved the management of website content and articles.
-  - title: Web Design Intern, Vinci Stationery
-    subtitle: 'Founder: Ms. Anisha Mata'
-    duration: Jan’ 21 - Feb’ 21
-    links:
-      - name: Website
-        link: https://vincistationery.com
-    tech_stack: Wix, JavaScript, Velo API
-    bullets:
-      - Redesigned and restructured the o<span>f</span><span>f</span>icial e-commerce website of the company that brought in 200+ new users.
-      - 'Delivered custom elements by using <strong>Velo API by Wix</strong>, like a custom product carousel.'
-  - title: '[Volunteer] Web Developer, Rising Star Khilte Chehre (NGO)'
-    subtitle: 'Founder: Mr. Nishant Jain'
-    duration: May’ 21 - Present
-    links:
-      - name: Website
-        link: https://risingstarkhiltechehre.org
-    tech_stack: Wordpress, CSS, MySQL
-    bullets:
-      - Improved accessibility by making the website colorblind-safe. Fixed UI bugs.
-      - Building an authentication system for various stakeholders of the NGO.
+      - Explored novel algorithmic methodologies for fair allocation and division of resources in graph structures, addressing real-world challenges of equitable resource distribution among stakeholders.
+      - Analyzed computational complexity of fair division problems, utilizing concepts such as NP-hardness and fixed-parameter tractability to evaluate algorithm efficiency for continuous and discrete heterogeneous resources.
+      
+  # - title: ML Intern at Hackershala 
+  #   subtitle: 'Supervisor: Dr. Rakshit Tandon'
+  #   duration: Dec’ 23 - Feb'24
+  #   tech_stack: A
+  #   bullets:
+  #     - A
+  #     - B
 
 # PROJECTS
 projects:
-  - title: Microsoft Teams Clone
-    subtitle: Capstone Project of Microsoft Engage 2021
-    duration: Jun’ 21 - Present
-    team_size: 1
+  - title: Vector Borne Disease Prediction System
+    subtitle: 'Guide: Dr. Jainendra Shukla'
+    duration: Aug’ 23 - Dec'23
+    team_size: 4
     links:
-      - name: Website
-        link: https://msft.lohani.dev/
-      - name: GitHub
-        link: https://github.com/ananyalohani/teams
+      - name: Github
+        link: https://github.com/Unalome81/Vector-Borne-Disease-Prediction
+    tech_stack: Python, NumPy, Pandas, Scikit-learn, TensorFlow, Seaborn, Matplotlib
     bullets:
-      - Designed and developed a fully-featured clone of Microsoft Teams using Agile methods.
-      - Supports video call, group chat, authentication, network quality status, background filters, etc.
-      - Equipped to handle 25+ participants exchanging media via an SFU provided by Twilio.
-    tech_stack: Next.js, Tailwind CSS, Socket.io, Express, MongoDB, Mongoose, Twilio Video
-  - title: IIITD Playbook
-    subtitle: Student Initiative
-    duration: Jan’ 21 - Present
-    team_size: 5
+      - Built a robust model for early detection of vector-borne diseases using patient symptoms as input features.
+      - Conducted exploratory data analysis (EDA) using techniques such as Principal Component Analysis (PCA) to identify key features for model building.
+      - Studied and experimented with 7 different machine-learning models- Logistic Regression, Random Forest, Support Vector Machine (SVM), Naive Bayes, Multilayer Perceptron (MLP), XGBoost, and Neural Networks.
+      - Conducted comprehensive testing using cross-validation and used grid search for hyperparameter tuning.
+
+  - title: Cycle Accurate Simulator for 5-stage CPU
+    subtitle: 'Guide: Dr. Sujay Deb'
+    duration: Aug’ 23 - Dec'23
+    team_size: 4
     links:
-      - name: Website
-        link: https://iiitdplaybook.web.app/homepage
-      - name: GitHub
-        link: https://ananya.li/pb
-    tech_stack: ReactJS, Google Firebase, CSS, Material-UI
+      - name: Github
+        link: https://github.com/Vaibtan/CSE511_CA_project
+    tech_stack: C++, Python, Assembly Language
     bullets:
-      - IIITD Playbook provides multiple strategies, experiences, and stories to guide the current students of the college.
-      - Coded the homepage, supplies, quickbites, and internship pages and redesigned the footer.
-      - Optimized the performance of the website by hosting static assets on Statically.
-      - Mentored new members on the web development team.
-  - title: Mausam
-    subtitle: Personal Project
-    duration: May’ 21
-    team_size: 1
-    links:
-      - name: Website
-        link: https://ananya.li/mausam
-      - name: GitHub
-        link: https://github.com/ananyalohani/mausam
-    tech_stack: React with TypeScript, TailwindCSS, SWR
-    bullets:
-      - Mausam is a web app that fetches the weather data for the next 6 days from Metaweather API.
-      - Engineered a search bar with autocompletion that fetches cities from OpenStreetMap API.
-  - title: Color Switch
-    subtitle: 'Guide: Dr. Vivek Kumar'
-    duration: Nov’ 20 - Dec’ 20
+      - Designed and implemented a detailed RISC CPU in C++, including an assembler and simulator, with a 5-stage pipeline and a 2-way set associative cache.
+      - Structured the code to replicate real CPU operations with separate instruction and data memory, utilizing data buses for data transfer within the CPU.
+      - Generated log files detailing register state, error flags, pipeline stages, cache state, and memory state after every cycle for comprehensive debugging and analysis.
+
+  - title: Memory management system
+    subtitle: 'Guide: Dr. Dhruv Kumar'
+    duration: Aug’ 23 - Dec'23
     team_size: 2
     links:
-      - name: GitHub
-        link: https://github.com/ananyalohani/color-switch-java
-    tech_stack: Java, JavaFX, FXML, CSS, Gradle
+      - name: Github
+        link: https://github.com/Mr-AniP/MeMS
+    tech_stack: C++, System Calls, Data Structures
     bullets:
-      - Developed a clone of the popular Play Store app Color Switch for desktop using object-oriented and event-driven programming.
-      - Utilised the Serializable Interface in Java to save games.
-  - title: Perceptris
-    note: (Top 3 out of 100+ teams)
-    subtitle: 'Guide: Dr. Aman Parnami'
-    duration: Aug' 19 - Sep' 19
-    team_size: 3
+      - Developed a custom memory management system using C++ and system calls for efficient memory allocation and deallocation.
+      - Implemented a free list structure to manage and reuse free memory segments (holes), addressing issues of fragmentation.
+
+  - title: Game_Galaxy
+    subtitle: 'Personal Project'
+    duration: May' 24 - Jun' 24
+    team_size: 5
     links:
       - name: GitHub
-        link: https://github.com/ananyalohani/Perceptris
-    tech_stack: Arduino, Processing, C++
+        link: https://github.com/Unalome81/Game_Galaxy
+    tech_stack: Python, MySQL, Flask
     bullets:
-      - Built a multiplayer, gesture-controlled version of the game Tetris using ultrasonic, touch and piezoelectric sensors.
+      - Developed an an online Game Store using Database Management concepts.
+      - Implemented the game store as a CLI using embedded SQL as well as on a website using flask.
 
 # POSITIONS OF RESPONSIBILITY
 leadership:
-  - position: '<strong>Mentor</strong> at CollabConnect, a mentorship startup for students, founded by IIITD students.'
-    duration: Jul’ 21 - Present
-  - position: '<strong>Mentored</strong> the web development team of IIITD Playbook, consisting of 5 members.'
-    duration: Jan’ 21 - Present
-  - position: '<strong>Webmaster</strong> of the o<span>f</span><span>f</span>icial website of CSE department of IIIT Delhi.'
-    duration: Feb’ 21 - Present
-  - position: '<strong>President</strong> of Audiobytes, leading 80+ members of the music club of IIIT Delhi.'
-    duration: May’ 21 - Present
-  - position: '<strong>Cultural Council Member</strong>, organised events in IIITD with participation of 500+ students.'
-    duration: Jun’ 20 - Present
-  - position: '<strong>Event Head</strong> at Odyssey 2020 (cultural fest). Organised Acapellujah in a team of 3 with participation of 40+ colleges and amassed a sponsorship amount of INR 2 Lacs.'
-    duration: Oct’ 19 - Jan’ 20
+  - position: 'Student Council Representative'
+    duration: 'Jun 24 - Present'
+  - position: 'Btech, Mtech and PhD Induction Organizing Committee'
+    duration: 'Jun 24 - Present'
+  - position: 'Student Senate Representative'
+    duration: 'Jun 23 - Jul 24'
+  - position: 'Content Team at the the Association of Computational Machinery'
+    duration: 'Feb 22 - Jan, 23'
+ 
 
 # AWARDS AND ACHIEVEMENTS
 achievements:
-  - "<strong>Dean's List Award</strong> for Academic Excellence 2021."
-  - '<strong>99.879th Percentile</strong> in JEE Main 2019 (Top 0.2%).'
-  - '<strong>Gold Medal</strong> in Intraschool Mathematics Olympiad 2018.'
-  - 'Awarded <strong>Distinction</strong> (highest grade) in Grade 3, Trinity Rock & Pop Vocals exam in 2015.'
+  - "Commended by the internationally recognized Earth Saviours Foundation and Sahyog NGO for volunteering to educate underprivileged children and support the disabled."
+  - 'Awarded Distinction</strong> in Australian National Chemistry Quiz (Class 12th)'
 
 # INTERESTS AND HOBBIES
 interests:
-  - '<strong>Music</strong> - Active member of Audiobytes since 2019.'
-  - '<strong>Art</strong> - Made an <a href="https://www.instagram.com/lohani_art/">Instagram account</a> and <a href="https://www.youtube.com/channel/UCD027JiYyUAsKUrKOlms2iA">Youtube channel</a> dedicated to art.'
+  - '<strong>Competetive Programming</strong> - Passionate about problem solving, 1350+ Codeforces rating. '
+  - '<strong>Chess</strong> - Active member of 65th Square since 2023.'
+  - '<strong>Reading</strong> - Enjoy a diverse range of literature, including literary fiction, classics, thrillers and non fiction'
